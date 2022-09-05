@@ -1,0 +1,17 @@
+com\svalero\ECIwebapp\servlet\AddProductServlet.class
+com\svalero\ECIwebapp\servlet\SearchProductsServlet.class
+com\svalero\ECIwebapp\domain\User.class
+com\svalero\ECIwebapp\servlet\ListarProductServlet.class
+com\svalero\ECIwebapp\servlet\GetUsersListServlet.class
+com\svalero\ECIwebapp\dao\ProductDao.class
+com\svalero\ECIwebapp\exception\ProductAlreadyExistException.class
+com\svalero\ECIwebapp\servlet\SearchUsersServlet.class
+com\svalero\ECIwebapp\servlet\ListarUserServlet.class
+com\svalero\ECIwebapp\util\Constants.class
+com\svalero\ECIwebapp\servlet\LoginServlet.class
+com\svalero\ECIwebapp\servlet\GetProductsListServlet.class
+com\svalero\ECIwebapp\exception\UserAlreadyExistException.class
+com\svalero\ECIwebapp\servlet\RegisterServlet.class
+com\svalero\ECIwebapp\domain\Product.class
+com\svalero\ECIwebapp\dao\UserDao.class
+com\svalero\ECIwebapp\dao\Database.class

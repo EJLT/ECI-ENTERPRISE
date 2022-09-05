@@ -1,0 +1,17 @@
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\domain\User.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\exception\UserAlreadyExistException.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\GetUsersListServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\ListarProductServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\exception\ProductAlreadyExistException.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\SearchProductsServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\GetProductsListServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\util\Constants.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\dao\ProductDao.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\domain\Product.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\ListarUserServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\SearchUsersServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\LoginServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\dao\Database.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\AddProductServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\servlet\RegisterServlet.java
+C:\Users\Edu\IdeaProjects\ECI\ECI\src\main\java\com\svalero\ECIwebapp\dao\UserDao.java
